@@ -8,7 +8,7 @@ I've been coding since 13 years old , i like to be an Full-Stack Developer.
 
 * 🌍  I'm based in Jakarta
 * ✉️  You can contact me at [mshevaatallah@gmail.com](mailto:mshevaatallah@gmail.com)
-* 🧠  I'm currently learning Express and Next.js
+* 🧠  I'm currently using React Native
 
 ### Skills
 
