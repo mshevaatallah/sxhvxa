@@ -1,7 +1,7 @@
 Hi 👋 My name is Shev
 =====================
 
-Web Developer
+Web & Mobile Developer
 -------------
 
 I've been coding since 13 years old , i like to be an Full-Stack Developer.
