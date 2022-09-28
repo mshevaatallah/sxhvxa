@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with React and React Native<br>🌱 I’m currently learning Express.js<br>💬 Contact me at mshevaatallah@gmail.com
+Web and Mobile Developer
 
 
 ## 🌐 Socials:
