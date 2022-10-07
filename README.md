@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shev</h1>
 <h3 align="center">Im just a 16 years old kid who love code</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sxhvxa" alt="sxhvxa" /></a> </p>
+
 
 - 🌱 I’m currently learning **Swift**
 
